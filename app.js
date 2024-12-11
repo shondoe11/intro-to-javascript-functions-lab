@@ -185,3 +185,4 @@ const basicCalculator = (x, y, z) => {
     }
 }
 console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
+
